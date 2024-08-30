@@ -1,5 +1,7 @@
 select answers to questions 
-# List the employee number, last name, first name, sex, and salary of each employee.
+
+
+1# List the employee number, last name, first name, sex, and salary of each employee.
 
 SELECT 
     employees.emp_no, 
